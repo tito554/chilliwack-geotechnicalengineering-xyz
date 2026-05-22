@@ -1,0 +1,51 @@
+# Geotechnicalengineering — Chilliwack
+
+> Geotechnical engineering services in Chilliwack, Canada.
+
+## Services
+- [Anchors](https://chilliwack.geotechnicalengineering.xyz/anchors/)
+- [Atterberg Limits](https://chilliwack.geotechnicalengineering.xyz/atterberg-limits/)
+- [Cbr Road](https://chilliwack.geotechnicalengineering.xyz/cbr-road/)
+- [Cpt Test](https://chilliwack.geotechnicalengineering.xyz/cpt-test/)
+- [Deep Excavations](https://chilliwack.geotechnicalengineering.xyz/deep-excavations/)
+- [Excavation Monitoring](https://chilliwack.geotechnicalengineering.xyz/excavation-monitoring/)
+- [Excavations](https://chilliwack.geotechnicalengineering.xyz/excavations/)
+- [Flexible Pavement](https://chilliwack.geotechnicalengineering.xyz/flexible-pavement/)
+- [Footings](https://chilliwack.geotechnicalengineering.xyz/footings/)
+- [Foundations](https://chilliwack.geotechnicalengineering.xyz/foundations/)
+- [Grain Size](https://chilliwack.geotechnicalengineering.xyz/grain-size/)
+- [Ground Improvement](https://chilliwack.geotechnicalengineering.xyz/ground-improvement/)
+- [Grouting](https://chilliwack.geotechnicalengineering.xyz/grouting/)
+- [In Situ Permeability](https://chilliwack.geotechnicalengineering.xyz/in-situ-permeability/)
+- [Investigation](https://chilliwack.geotechnicalengineering.xyz/investigation/)
+- [Lab In Situ](https://chilliwack.geotechnicalengineering.xyz/lab-in-situ/)
+- [Laboratory](https://chilliwack.geotechnicalengineering.xyz/laboratory/)
+- [Liquefaction](https://chilliwack.geotechnicalengineering.xyz/liquefaction/)
+- [Masw](https://chilliwack.geotechnicalengineering.xyz/masw/)
+- [Mat Foundations](https://chilliwack.geotechnicalengineering.xyz/mat-foundations/)
+- [Piles](https://chilliwack.geotechnicalengineering.xyz/piles/)
+- [Proctor Tests](https://chilliwack.geotechnicalengineering.xyz/proctor-tests/)
+- [Resistivity](https://chilliwack.geotechnicalengineering.xyz/resistivity/)
+- [Retaining Walls](https://chilliwack.geotechnicalengineering.xyz/retaining-walls/)
+- [Rigid Pavement](https://chilliwack.geotechnicalengineering.xyz/rigid-pavement/)
+- [Road Geotechnics](https://chilliwack.geotechnicalengineering.xyz/road-geotechnics/)
+- [Sand Cone Density](https://chilliwack.geotechnicalengineering.xyz/sand-cone-density/)
+- [Seismic](https://chilliwack.geotechnicalengineering.xyz/seismic/)
+- [Seismic Isolation](https://chilliwack.geotechnicalengineering.xyz/seismic-isolation/)
+- [Seismic Microzonation](https://chilliwack.geotechnicalengineering.xyz/seismic-microzonation/)
+- [Seismic Refraction](https://chilliwack.geotechnicalengineering.xyz/seismic-refraction/)
+- [Slope Stability](https://chilliwack.geotechnicalengineering.xyz/slope-stability/)
+- [Slopes](https://chilliwack.geotechnicalengineering.xyz/slopes/)
+- [Soft Ground Tunnels](https://chilliwack.geotechnicalengineering.xyz/soft-ground-tunnels/)
+- [Spt Drilling](https://chilliwack.geotechnicalengineering.xyz/spt-drilling/)
+- [Stone Columns](https://chilliwack.geotechnicalengineering.xyz/stone-columns/)
+- [Test Pits](https://chilliwack.geotechnicalengineering.xyz/test-pits/)
+- [Triaxial](https://chilliwack.geotechnicalengineering.xyz/triaxial/)
+- [Vibrocompaction](https://chilliwack.geotechnicalengineering.xyz/vibrocompaction/)
+
+## Contact
+- Website: https://chilliwack.geotechnicalengineering.xyz/
+
+## About
+This site provides geotechnical engineering services in Chilliwack, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
